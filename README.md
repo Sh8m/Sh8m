@@ -37,7 +37,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
 </p>
 
-<hr /><a href="https://open.spotify.com/user/px4at1uxlfvdh2pbixz9fbu9f?si=7573bc2d61404948"><img alt="spotify now playing" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=px4at1uxlfvdh2pbixz9fbu9f"></a><div align="center"><br />
 
 
 ### Socials
