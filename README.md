@@ -2,10 +2,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================
 
 * 🌍  I'm based in Switzerland & Sicily
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F33203307%2FSicily-Tours-Branding-and-Web-Design&psig=AOvVaw3cC7HW9t2y-XkJwbYGJrPq&ust=1719918119476000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJir5bXYhYcDFQAAAAAdAAAAABBL))
+![Alt Text]([(https://www.behance.net/gallery/33203307/Sicily-Tours-Branding-and-Web-Design/modules/210274173)])
 ### Skills
 
-
+https://www.behance.net/gallery/33203307/Sicily-Tours-Branding-and-Web-Design/modules/210274173
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
