@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================
 
 * 🌍  I'm based in Switzerland & Sicily
-
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F33203307%2FSicily-Tours-Branding-and-Web-Design&psig=AOvVaw3cC7HW9t2y-XkJwbYGJrPq&ust=1719918119476000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJir5bXYhYcDFQAAAAAdAAAAABBL))
 ### Skills
 
 
