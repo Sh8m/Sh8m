@@ -1,7 +1,6 @@
 <p align="center">
   <font size="+5">
     Cybersecurity Enthusiast | Python/Bash/Powershell | 
-    <span style="color: red;">Sicilian independist</span>
   </font>
 </p>
 
